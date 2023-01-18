@@ -535,14 +535,6 @@ section {
     background-size: cover;
     height: 400px;
   }
-  .about-uss-left_subtitle,
-  .about-uss-left_title,
-  .about-uss-left_text {
-    background: url("/finsweet/imgs/about-us/our-goals-img.svg");
-    color: transparent;
-    -webkit-background-clip: text;
-    animation: animate 30s infinite linear;
-  }
   @keyframes animate {
     from {
       background-position: 0 0;
